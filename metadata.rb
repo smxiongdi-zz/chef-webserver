@@ -1,0 +1,5 @@
+name              'chef-webserver'
+maintainer        'Zachary Smith'
+maintainer-email  'zach.noble.smith@gmail.com'
+description       'Configures a nodejs webserver'
+version           '0.1'
